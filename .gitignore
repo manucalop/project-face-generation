@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+landmark_images/*
+landmark_images.zip
+*.pt
+*.p
+*.pkl
+__pycache__/*
+processed-celeba-small.zip
+processed_celeba_small/*
